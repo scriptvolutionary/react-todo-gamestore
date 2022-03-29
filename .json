@@ -1,0 +1,242 @@
+[
+	{
+		"id": 1,
+		"title": "Forza Horizon 5",
+		"genres": ["Гонки", "Симулятор", "Открытый мир"],
+		"description": "Вас ждёт бесконечный калейдоскоп приключений Horizon! Совершайте увлекательные поездки по невероятно красивому и самобытному миру Мексики за рулём величайших автомобилей в истории. Начните своё приключение Horizon уже сегодня, добавив игру в свой список желаний!",
+		"image": "/games/forza_5.jpeg",
+		"video": "https://www.youtube.com/embed/FYH9n37B7Yw",
+		"status": "default",
+		"price": 2343
+	},
+	{
+		"id": 2,
+		"title": "Battlefield 2042",
+		"genres": ["Экшен", "Шутер", "Война"],
+		"description": "Battlefield™ 2042 — это шутер от первого лица, в котором серия возвращается к легендарным масштабным сражениям. В будущем, где царит хаос, адаптируйтесь и процветайте на постоянно меняющихся полях боя благодаря своему отряду и арсеналу новейших технологий.",
+		"image": "/games/battlefield_2042.jpg",
+		"video": "https://www.youtube.com/embed/ASzOzrB-a9E",
+		"status": "default",
+		"price": 2433
+	},
+	{
+		"id": 3,
+		"title": "Life is Strange True Colors",
+		"genres": ["Глубокий сюжет", "Протагонистка"],
+		"description": "Алекс Чэнь от всех скрывает своё «проклятие» — сверхъестественную способность считывать сильные эмоции других и влиять на них. Но когда её брат погибает — якобы в результате несчастного случая, — Алекс использует её, чтобы узнать правду.",
+		"image": "/games/life_is_strange_true_colors.jpeg",
+		"video": "https://www.youtube.com/embed/b6CkzwVAr0M",
+		"status": "default",
+		"price": 3021
+	},
+	{
+		"id": 4,
+		"title": "Grand Theft Auto V",
+		"genres": ["Открытый мир", "Экшен"],
+		"description": "Grand Theft Auto V для PC позволяет игрокам исследовать знаменитый мир Лос-Сантоса и округа Блэйн в разрешении до 4k и выше с частотой 60 кадров в секунду.",
+		"image": "/games/gta_v.jpeg",
+		"video": "https://www.youtube.com/embed/QkkoHAzjnUs",
+		"status": "default",
+		"price": 789
+	},
+	{
+		"id": 5,
+		"title": "Tom Clancy's Rainbow Six® Siege",
+		"genres": ["Тактика", "Шутер"],
+		"description": "Tom Clancy's Rainbow Six Осада – это продолжение нашумевшего шутера от первого лица, разработанного студией Ubisoft Montreal.",
+		"image": "/games/rainbow_siege.jpeg",
+		"video": "https://www.youtube.com/embed/6wlvYh0h63k",
+		"status": "popular",
+		"price": 982
+	},
+	{
+		"id": 6,
+		"title": "Assassin’s Creed Valhalla",
+		"genres": ["Паркур", "РПГ", "Открытый мир"],
+		"description": "Assassin’s Creed Valhalla — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная студией Ubisoft Montreal под издательством компании Ubisoft. Является двенадцатой игрой в серии игр Assassin’s Creed.",
+		"image": "/games/assassins_creed_valhalla.png",
+		"video": "https://www.youtube.com/embed/ssrNcwxALS4",
+		"status": "new",
+		"price": 2863
+	},
+	{
+		"id": 7,
+		"title": "Assassin’s Creed Valhalla",
+		"genres": ["Паркур", "РПГ", "Открытый мир"],
+		"description": "Assassin’s Creed Valhalla — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная студией Ubisoft Montreal под издательством компании Ubisoft. Является двенадцатой игрой в серии игр Assassin’s Creed.",
+		"image": "/games/assassins_creed_valhalla.png",
+		"video": "https://www.youtube.com/embed/ssrNcwxALS4",
+		"status": "new",
+		"price": 2863
+	},
+	{
+		"id": 8,
+		"title": "Tom Clancy's Rainbow Six® Siege",
+		"genres": ["Тактика", "Шутер"],
+		"description": "Tom Clancy's Rainbow Six Осада – это продолжение нашумевшего шутера от первого лица, разработанного студией Ubisoft Montreal.",
+		"image": "/games/rainbow_siege.jpeg",
+		"video": "https://www.youtube.com/embed/6wlvYh0h63k",
+		"status": "popular",
+		"price": 982
+	},
+	{
+		"id": 9,
+		"title": "Grand Theft Auto V",
+		"genres": ["Открытый мир", "Экшен"],
+		"description": "Grand Theft Auto V для PC позволяет игрокам исследовать знаменитый мир Лос-Сантоса и округа Блэйн в разрешении до 4k и выше с частотой 60 кадров в секунду.",
+		"image": "/games/gta_v.jpeg",
+		"video": "https://www.youtube.com/embed/QkkoHAzjnUs",
+		"status": "default",
+		"price": 789
+	},
+	{
+		"id": 10,
+		"title": "Life is Strange True Colors",
+		"genres": ["Глубокий сюжет", "Протагонистка"],
+		"description": "Алекс Чэнь от всех скрывает своё «проклятие» — сверхъестественную способность считывать сильные эмоции других и влиять на них. Но когда её брат погибает — якобы в результате несчастного случая, — Алекс использует её, чтобы узнать правду.",
+		"image": "/games/life_is_strange_true_colors.jpeg",
+		"video": "https://www.youtube.com/embed/b6CkzwVAr0M",
+		"status": "default",
+		"price": 3021
+	},
+	{
+		"id": 11,
+		"title": "Battlefield 2042",
+		"genres": ["Экшен", "Шутер", "Война"],
+		"description": "Battlefield™ 2042 — это шутер от первого лица, в котором серия возвращается к легендарным масштабным сражениям. В будущем, где царит хаос, адаптируйтесь и процветайте на постоянно меняющихся полях боя благодаря своему отряду и арсеналу новейших технологий.",
+		"image": "/games/battlefield_2042.jpg",
+		"video": "https://www.youtube.com/embed/ASzOzrB-a9E",
+		"status": "default",
+		"price": 2433
+	},
+	{
+		"id": 12,
+		"title": "Forza Horizon 5",
+		"genres": ["Гонки", "Симулятор", "Открытый мир"],
+		"description": "Вас ждёт бесконечный калейдоскоп приключений Horizon! Совершайте увлекательные поездки по невероятно красивому и самобытному миру Мексики за рулём величайших автомобилей в истории. Начните своё приключение Horizon уже сегодня, добавив игру в свой список желаний!",
+		"image": "/games/forza_5.jpeg",
+		"video": "https://www.youtube.com/embed/FYH9n37B7Yw",
+		"status": "default",
+		"price": 2343
+	},
+	{
+		"id": 13,
+		"title": "Forza Horizon 5",
+		"genres": ["Гонки", "Симулятор", "Открытый мир"],
+		"description": "Вас ждёт бесконечный калейдоскоп приключений Horizon! Совершайте увлекательные поездки по невероятно красивому и самобытному миру Мексики за рулём величайших автомобилей в истории. Начните своё приключение Horizon уже сегодня, добавив игру в свой список желаний!",
+		"image": "/games/forza_5.jpeg",
+		"video": "https://www.youtube.com/embed/FYH9n37B7Yw",
+		"status": "default",
+		"price": 2343
+	},
+	{
+		"id": 14,
+		"title": "Battlefield 2042",
+		"genres": ["Экшен", "Шутер", "Война"],
+		"description": "Battlefield™ 2042 — это шутер от первого лица, в котором серия возвращается к легендарным масштабным сражениям. В будущем, где царит хаос, адаптируйтесь и процветайте на постоянно меняющихся полях боя благодаря своему отряду и арсеналу новейших технологий.",
+		"image": "/games/battlefield_2042.jpg",
+		"video": "https://www.youtube.com/embed/ASzOzrB-a9E",
+		"status": "default",
+		"price": 2433
+	},
+	{
+		"id": 15,
+		"title": "Life is Strange True Colors",
+		"genres": ["Глубокий сюжет", "Протагонистка"],
+		"description": "Алекс Чэнь от всех скрывает своё «проклятие» — сверхъестественную способность считывать сильные эмоции других и влиять на них. Но когда её брат погибает — якобы в результате несчастного случая, — Алекс использует её, чтобы узнать правду.",
+		"image": "/games/life_is_strange_true_colors.jpeg",
+		"video": "https://www.youtube.com/embed/b6CkzwVAr0M",
+		"status": "default",
+		"price": 3021
+	},
+	{
+		"id": 16,
+		"title": "Grand Theft Auto V",
+		"genres": ["Открытый мир", "Экшен"],
+		"description": "Grand Theft Auto V для PC позволяет игрокам исследовать знаменитый мир Лос-Сантоса и округа Блэйн в разрешении до 4k и выше с частотой 60 кадров в секунду.",
+		"image": "/games/gta_v.jpeg",
+		"video": "https://www.youtube.com/embed/QkkoHAzjnUs",
+		"status": "default",
+		"price": 789
+	},
+	{
+		"id": 17,
+		"title": "Tom Clancy's Rainbow Six® Siege",
+		"genres": ["Тактика", "Шутер"],
+		"description": "Tom Clancy's Rainbow Six Осада – это продолжение нашумевшего шутера от первого лица, разработанного студией Ubisoft Montreal.",
+		"image": "/games/rainbow_siege.jpeg",
+		"video": "https://www.youtube.com/embed/6wlvYh0h63k",
+		"status": "popular",
+		"price": 982
+	},
+	{
+		"id": 18,
+		"title": "Assassin’s Creed Valhalla",
+		"genres": ["Паркур", "РПГ", "Открытый мир"],
+		"description": "Assassin’s Creed Valhalla — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная студией Ubisoft Montreal под издательством компании Ubisoft. Является двенадцатой игрой в серии игр Assassin’s Creed.",
+		"image": "/games/assassins_creed_valhalla.png",
+		"video": "https://www.youtube.com/embed/ssrNcwxALS4",
+		"status": "new",
+		"price": 2863
+	},
+	{
+		"id": 19,
+		"title": "Assassin’s Creed Valhalla",
+		"genres": ["Паркур", "РПГ", "Открытый мир"],
+		"description": "Assassin’s Creed Valhalla — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная студией Ubisoft Montreal под издательством компании Ubisoft. Является двенадцатой игрой в серии игр Assassin’s Creed.",
+		"image": "/games/assassins_creed_valhalla.png",
+		"video": "https://www.youtube.com/embed/ssrNcwxALS4",
+		"status": "new",
+		"price": 2863
+	},
+	{
+		"id": 20,
+		"title": "Tom Clancy's Rainbow Six® Siege",
+		"genres": ["Тактика", "Шутер"],
+		"description": "Tom Clancy's Rainbow Six Осада – это продолжение нашумевшего шутера от первого лица, разработанного студией Ubisoft Montreal.",
+		"image": "/games/rainbow_siege.jpeg",
+		"video": "https://www.youtube.com/embed/6wlvYh0h63k",
+		"status": "popular",
+		"price": 982
+	},
+	{
+		"id": 21,
+		"title": "Grand Theft Auto V",
+		"genres": ["Открытый мир", "Экшен"],
+		"description": "Grand Theft Auto V для PC позволяет игрокам исследовать знаменитый мир Лос-Сантоса и округа Блэйн в разрешении до 4k и выше с частотой 60 кадров в секунду.",
+		"image": "/games/gta_v.jpeg",
+		"video": "https://www.youtube.com/embed/QkkoHAzjnUs",
+		"status": "default",
+		"price": 789
+	},
+	{
+		"id": 22,
+		"title": "Life is Strange True Colors",
+		"genres": ["Глубокий сюжет", "Протагонистка"],
+		"description": "Алекс Чэнь от всех скрывает своё «проклятие» — сверхъестественную способность считывать сильные эмоции других и влиять на них. Но когда её брат погибает — якобы в результате несчастного случая, — Алекс использует её, чтобы узнать правду.",
+		"image": "/games/life_is_strange_true_colors.jpeg",
+		"video": "https://www.youtube.com/embed/b6CkzwVAr0M",
+		"status": "default",
+		"price": 3021
+	},
+	{
+		"id": 23,
+		"title": "Battlefield 2042",
+		"genres": ["Экшен", "Шутер", "Война"],
+		"description": "Battlefield™ 2042 — это шутер от первого лица, в котором серия возвращается к легендарным масштабным сражениям. В будущем, где царит хаос, адаптируйтесь и процветайте на постоянно меняющихся полях боя благодаря своему отряду и арсеналу новейших технологий.",
+		"image": "/games/battlefield_2042.jpg",
+		"video": "https://www.youtube.com/embed/ASzOzrB-a9E",
+		"status": "default",
+		"price": 2433
+	},
+	{
+		"id": 24,
+		"title": "Forza Horizon 5",
+		"genres": ["Гонки", "Симулятор", "Открытый мир"],
+		"description": "Вас ждёт бесконечный калейдоскоп приключений Horizon! Совершайте увлекательные поездки по невероятно красивому и самобытному миру Мексики за рулём величайших автомобилей в истории. Начните своё приключение Horizon уже сегодня, добавив игру в свой список желаний!",
+		"image": "/games/forza_5.jpeg",
+		"video": "https://www.youtube.com/embed/FYH9n37B7Yw",
+		"status": "default",
+		"price": 2343
+	}
+]
