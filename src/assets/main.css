@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	body,
+	html {
+		scrollbar-color: #458245 #714826;
+		scrollbar-width: auto | thin | none;
+	}
+}
+
+@layer components {
+	#root {
+		@apply max-w-7xl mx-auto px-2 scroll-smooth;
+	}
+}
+
+::-webkit-scrollbar {
+	width: 8px;
+	height: 8px;
+	@apply bg-base-100;
+}
+
+::-webkit-scrollbar-thumb {
+	@apply bg-primary/30;
+}
